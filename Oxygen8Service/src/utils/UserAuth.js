@@ -47,5 +47,5 @@ class UserAuth{
     return true;
   }
 
-  
+} 
 module.exports = UserAuth;
