@@ -232,6 +232,7 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 <!-- Añade aquí tu nombre y tu usuario de GitHub (práctica de GitHub, Parte 2). -->
 Irene Cid
 Diego Garcia Gonzalez
+Comentario por que puse un comment en el punto 3 en vez de un request changes
 [Diego Garcia Gonzalez revisor](https://github.com/Dieguen368review) (@Dieguen368review)
 ## Licencia y uso
 
